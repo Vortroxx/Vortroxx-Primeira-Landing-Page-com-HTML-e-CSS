@@ -1,0 +1,120 @@
+* {
+    font-family: 'Raleway', sans-serif;
+
+}
+
+
+
+p {
+    color: #fff;
+}
+
+#transform-world p{
+    margin-top: 140px;
+    width: 244px;
+    height: 141px;
+    top: 111px;
+    font-size: 36px;
+    text-shadow: 3px 3px;
+    
+}
+
+.banner-content h1{
+    margin-top: 0px;
+    font-family: 'releway', sans-serif;
+    font-weight: 800;
+    font-size: 40px;
+    text-shadow: 1px 1px #0a4f80;
+    color: #1988b8;
+    
+}
+
+.banner-content p{
+    margin: 26.8px 0px;
+    margin-top: -25px;
+    max-width: 470px;
+    font-size: 18px;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.banner-content button {
+    border: 1px solid #1988b8;
+    box-shadow: 1px 1px #1988b8;  
+    height: 50px;
+    width: 300px; 
+    background: none;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    font-size: 20px;
+    color: #1988b8;
+   
+}
+
+#course-content h2{
+    margin-top: -100px;
+    font-family: 'releway', sans-serif;
+    font-style: oblique;
+    font-weight: 800;
+    font-size: 40px;
+    text-shadow: 1px 1px #0a4f80;
+    color: #1988b8;
+}
+
+#course-content p{
+    margin: 26.8px 0px;
+    margin-top: 25px;
+    max-width: 1000px;
+    font-size: 18px;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.module {
+    border: 1px solid #1988b8;
+    box-shadow: 1px 1px #1988b8;  
+    border-radius: 20px;
+    height: 50px;
+    width: 700px; 
+    background: #252525;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    text-align-last: center;
+    color: #fff;
+    margin-top: 20px;
+}
+
+.module span{
+    color: #1988b8;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.modules-list{
+   margin-top: 50px;
+}
+
+#professional-challenges h2{
+    margin-top: 100px;
+    font-family: 'releway', sans-serif;
+    font-style: oblique;
+    font-weight: 800;
+    font-size: 40px;
+    text-shadow: 1px 1px #0a4f80;
+    color: #1988b8;
+}
+
+#professional-challenges p{
+    margin: 26.8px 0px;
+    margin-top: 70px;
+    max-width: 970px;
+    font-size: 18px;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#professional-challenges img{
+    margin-top: 70px;
+}

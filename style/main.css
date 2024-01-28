@@ -1,0 +1,56 @@
+.banner-content {
+    background: url("/assets/images/banner.png"), linear-gradient(#030a0e 0%,
+            #186080 55%,
+            #000000 85%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 500px;
+}
+
+h1 {
+    font-size: 40px;
+
+}
+
+#course-content {
+    border: 2px solid #186080;
+    background-color: #030a0e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 600px;
+}
+
+#transform-world {
+    border: 2px solid #186080;
+    background-image: url(/assets/images/woman-code.png);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 400px;
+
+}
+
+#professional-challenges {
+    height: 900px;
+    border: 2px solid #186080;
+    background-color: #030a0e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+footer {
+    background: linear-gradient(#030a0e 0%,
+            #186080 55%,
+            #000000 85%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 200px;
+}
